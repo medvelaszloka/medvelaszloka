@@ -4,8 +4,7 @@ Senior Product Manager. I build products with AI agents as my default. I set dir
 
 ## What I believe
 
-- PMs who can't build prototypes will be left behind
-- The best product decisions come from touching the code, not just reading the spec
+- Anyone who can't build and iterate quickly is being left behind
 - AI agents aren't assistants. They're your engineering, QA, and docs team if you set them up right
 - 0-to-1 is a mindset, not a phase
 
