@@ -12,10 +12,10 @@ Senior Product Manager. I build products with AI agents as my default. I set dir
 ## What I'm building
 
 **[AI-Native PM Playbook](https://github.com/medvelaszloka/ai-native-pm-playbook)**
-A complete system for shipping production apps using AI agents. 4 specialized agents (Planner, Builder, Reviewer, Docs-Keeper), decision boundary frameworks, and project templates. Built for PMs and non-engineers working with Claude Code.
+A complete system for shipping production apps using AI agents. 5 specialized agents (Planner, Builder, Reviewer, Docs-Keeper, Retro), decision boundary frameworks, and project templates. Built for PMs and non-engineers working with Claude Code.
 
 **[AI-Native PM OS](https://github.com/medvelaszloka/ai-native-pm-os)**
-My daily operating system for product management, powered by Claude Code. 6 slash commands that collect Slack signals, synthesize weekly patterns, and generate evidence-based bet candidates for Shape Up cycles. Includes a living context system that learns from past decisions.
+My daily operating system for product management, powered by Claude Code. Slash commands that collect Slack signals, synthesize weekly patterns, and generate evidence-based bet candidates for Shape Up cycles. Includes a living context system that learns from past decisions.
 
 ## Connect
 
