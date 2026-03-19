@@ -2,11 +2,9 @@
 
 Senior Product Manager. I build products with AI agents as my default. I set direction, make decisions, and let the agents execute.
 
-## What I believe
+## How I work
 
-- Anyone who can't build and iterate quickly is being left behind
-- AI agents aren't assistants. They're your engineering, QA, and docs team if you set them up right
-- 0-to-1 is a mindset, not a phase
+I treat AI agents the way most PMs treat their backlog: I prioritize, delegate, and review. The playbook and PM OS are how I do my actual job, not side projects.
 
 ## What I'm building
 
