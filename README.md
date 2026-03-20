@@ -4,7 +4,7 @@ Senior Product Manager. I build products with AI agents as my default. I set dir
 
 ## How I work
 
-The lines between PM, design, and engineering are blurring. I don't wait for a team to be staffed. I embed AI agents into every step of my workflow: finding the right problems, running assessments, drafting solutions, building prototypes. The goal is always the same: test fast, iterate fast, only build what actually matters.
+The lines between PM, design, and engineering are blurring. I embed AI agents into every step of my workflow: finding the right problems, running assessments, drafting solutions, and building prototypes. The goal is always the same: test fast, iterate fast, and only build what actually matters.
 
 ## What I'm building
 
